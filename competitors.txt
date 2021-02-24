@@ -1,0 +1,20 @@
+Arsenal, 1200, 0, 0, 0
+Aston Villa, 1200, 0, 0, 0
+Brighton, 1200, 0, 0, 0
+Burnley, 1200, 0, 0, 0
+Chelsea, 1200, 0, 0, 0
+Crystal Palace, 1200, 0, 0, 0
+Everton, 1200, 0, 0, 0
+Fulham, 1200, 0, 0, 0
+Leeds, 1200, 0, 0, 0
+Leicester, 1200, 0, 0, 0
+Liverpool, 1200, 0, 0, 0
+Manchester City, 1200, 0, 0, 0
+Manchester United, 1200, 0, 0, 0
+Newcastle, 1200, 0, 0, 0
+Sheffield, 1200, 0, 0, 0
+Southampton, 1200, 0, 0, 0
+Tottenham, 1200, 0, 0, 0
+West Brom, 1200, 0, 0, 0
+West Ham, 1200, 0, 0, 0
+Wolves, 1200, 0, 0, 0
